@@ -77,4 +77,8 @@ class MainActivity : AppCompatActivity() {
         binding.rv.adapter = MovieAdapter(this, list)
     }
 
+    fun addNewMethod(){
+        // here am check conflict
+    }
+
 }
