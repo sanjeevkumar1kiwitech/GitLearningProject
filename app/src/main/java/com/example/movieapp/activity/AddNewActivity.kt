@@ -9,4 +9,10 @@ class AddNewActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_add_new)
     }
+
+    fun addRecyclerviewinchildbranch(){
+        // in xml file check values here...
+    }
+
+
 }

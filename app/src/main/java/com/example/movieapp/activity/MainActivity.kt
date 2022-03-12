@@ -77,4 +77,12 @@ class MainActivity : AppCompatActivity() {
         binding.rv.adapter = MovieAdapter(this, list)
     }
 
+    fun thisMethodNameHereFromchildBranch(){
+        // chek
+    }
+
+    fun addOneMoreMethodsChildBranch(){
+
+    }
+
 }
